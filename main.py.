@@ -1,4 +1,3 @@
-Python
 import asyncio, random, logging, os
 from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
